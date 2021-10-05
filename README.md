@@ -2,6 +2,8 @@
 
 Video Converter Application using Electron.js
 
+after cloning try these steps to experience the application
+
 NPM PACKAGE FOR BUILDING PACKAGE 
  https://www.npmjs.com/package/electron-packager
 
