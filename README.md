@@ -10,8 +10,10 @@ use these cmd to install
 npm install --save-dev electron-packager
 -------------------
 
-use this to build video converter application for Desktop
+use this command to build video converter application for Desktop
+--------------------
 npx electron-packager .
+--------------------
 
 after building the package 
 try using => (VideoConverterApp.exe) to experience the application
